@@ -1,8 +1,18 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme        = "hello-friend-ng"
-paginate     = 10
+theme = "hello-friend-ng"
+
+paginate = 10
+enableRobotsTXT = true
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -10,43 +20,65 @@ paginate     = 10
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
-
-  # Enable sharing buttons, if you like
-  enableSharingButtons = true
-
-  # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  homeSubtitle = "Android app, custom kernel, and chatbot developer"
+  description = "Personal website and blog of kdrag0n, an Android app, custom kernel, and chatbot developer."
+  keywords = "kdrag0n, homepage, blog"
   images = [""]
 
-[taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
+  enableSharingButtons = true
+
+  [params.portrait]
+    path     = "/img/avatar.png"
+    alt      = "Avatar"
+    maxWidth = "50px"
+
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/kdrag0n"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:danny@kdrag0n.dev"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/kdrag0n"
+
+  [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/kdrag0n"
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
+    title = "Danny Lin"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = 'CC BY-NC 4.0'
     readOtherPosts = "Read other posts"
 
-    [languages.en.params.logo]
-      logoText = "hello friend ng"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+    # Ideally this would be removed entirely, but the theme doesn't support that
+    footerLeft = "Made with &#10084;"
+    # For license compliance
+    footerRight = "Theme by Djordje Atlialp"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    [languages.en.params.logo]
+      logoMark = ">"
+      logoText = "kdrag0n"
+      logoHomeLink = "/"
+      # Disable distracting animation
+      logoCursorDisabled = true
+
+[menu]
+  #[[menu.main]]
+  #  identifier = "blog"
+  #  name       = "Blog"
+  #  url        = "/posts"
+
+  #[[menu.main]]
+  #  identifier = "about"
+  #  name       = "About"
+  #  url        = "/about"
