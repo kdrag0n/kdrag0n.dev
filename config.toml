@@ -73,6 +73,11 @@ enableRobotsTXT = true
       logoCursorDisabled = true
 
 [menu]
+  [[menu.main]]
+    identifier = "downloads"
+    name       = "Downloads"
+    url        = "/files"
+
   #[[menu.main]]
   #  identifier = "blog"
   #  name       = "Blog"
