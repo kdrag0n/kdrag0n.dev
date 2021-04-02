@@ -30,6 +30,7 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Potential future benefits
 
+- **Support for heavy OEM skins (One UI, MIUI) in [Universal SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix)**
 - [ProtonAOSP ROM](https://github.com/ProtonAOSP) for Pixel 2/XL, 4a 5G, and 5
   - Significant performance improvements
     - Up to 25% faster app opening
