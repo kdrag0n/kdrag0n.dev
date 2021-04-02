@@ -15,7 +15,7 @@ Not a patron? Consider [supporting me on Patreon](https://patreon.com/kdrag0n) t
 
 Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n) This page is only for early access downloads.
 
-## Exclusive content
+## Early access
 
 - [Android 12 Extensions • 2.0.0](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v2.0.0.zip)
   - **Customization app: toggle all features and apply changes live without rebooting**
