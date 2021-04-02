@@ -45,4 +45,4 @@ Ethereum (ETH): 0x8D04A7734fcE8a19f831D049AdBcE22d8CA4ee97
 Monero (XMR): 46X8vWfKXKMG6WMLXdhKBvaVtKcPctCtk8kFbmGciAvA4NsqSsVqrVS29BRhtCVB4qGzCkGSLiqN8a9S7TpixF4JQ4qBuWX
 ```
 
-I recommended using a low fee because donations aren’t time-critical and cryptocurrency fees can get very high for fast transactions.
+Using a low fee is recommended because donations aren’t time-critical and transaction fees can get very high for some currencies.
