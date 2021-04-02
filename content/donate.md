@@ -39,8 +39,10 @@ If you don’t have a PayPal account, you can use [PayPal Donations](https://www
 
 I also accept some cryptocurrencies if you prefer them over other options. Here are the addresses:
 
-- Bitcoin (BTC): `bc1qaculctaahzdkvtn5j5zy7a3d79tg4ytnyf72sg`
-- Ethereum (ETH): `0x8D04A7734fcE8a19f831D049AdBcE22d8CA4ee97`
-- Monero (XMR): `46X8vWfKXKMG6WMLXdhKBvaVtKcPctCtk8kFbmGciAvA4NsqSsVqrVS29BRhtCVB4qGzCkGSLiqN8a9S7TpixF4JQ4qBuWX`
+```
+Bitcoin (BTC): bc1qaculctaahzdkvtn5j5zy7a3d79tg4ytnyf72sg
+Ethereum (ETH): 0x8D04A7734fcE8a19f831D049AdBcE22d8CA4ee97
+Monero (XMR): 46X8vWfKXKMG6WMLXdhKBvaVtKcPctCtk8kFbmGciAvA4NsqSsVqrVS29BRhtCVB4qGzCkGSLiqN8a9S7TpixF4JQ4qBuWX
+```
 
 I recommended using a low fee because donations aren’t time-critical and cryptocurrency fees can get very high for fast transactions.
