@@ -73,10 +73,15 @@ enableRobotsTXT = true
       logoCursorDisabled = true
 
 [menu]
-  [[menu.main]]
-    identifier = "downloads"
-    name       = "Downloads"
-    url        = "/files"
+  #[[menu.main]]
+  #  identifier = "downloads"
+  #  name       = "Downloads"
+  #  url        = "/files"
+
+  #[[menu.main]]
+  #  identifier = "donate"
+  #  name       = "Donate"
+  #  url        = "/donate"
 
   #[[menu.main]]
   #  identifier = "blog"
