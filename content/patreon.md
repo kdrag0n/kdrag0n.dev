@@ -17,7 +17,7 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
-- [Android 12 Extensions • 2.0.0](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v2.0.0.zip)
+- [Android 12 Extensions • 2.0.1](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v2.0.1.zip)
   - **Customization app: toggle all features and apply changes live without rebooting**
   - Privacy indicators
   - New, patterned touch ripple with noise and gradient
