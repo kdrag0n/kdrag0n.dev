@@ -17,16 +17,6 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
-- [Android 12 Extensions • 2.0.1](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v2.0.1.zip)
-  - **Customization app: toggle all features and apply changes live without rebooting**
-  - Privacy indicators
-  - New, patterned touch ripple with noise and gradient
-  - Bouncy overscroll
-  - Validated on Android 12 Developer Preview 2.1
-- [Inter Font Pack • 3.18.0](https://patreon.kdrag0n.dev/exclusive/inter-font-v3.18.0.zip)
-  - Updated fonts
-  - Replaced Google Sans on the stock Pixel OS for more consistent typography
-  - Validated on Android 12 Developer Preview 2.1
 - [ProtonAOSP ROM](https://patreon.kdrag0n.dev/protonaosp-install/) for Pixel 2/XL, 4a 5G, and 5
   - April security patch
   - Machine learning back gesture from Android 12 (better accuracy and adaptive sensitivity)
