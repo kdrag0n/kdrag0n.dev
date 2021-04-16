@@ -17,32 +17,25 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
-- [ProtonAOSP ROM](https://patreon.kdrag0n.dev/protonaosp-install/) for Pixel 2/XL, 4a 5G, and 5
-  - April security patch
-  - Machine learning back gesture from Android 12 (better accuracy and adaptive sensitivity)
-  - Improved overall system performance
-  - Up to 18% faster app, menu, and screen opening
-  - 16% faster screenshot capturing
-  - Up to 4x faster low-level memory management
-  - Empirical optimizations throughout many different layers of the system
-  - Faster image loading and saving (PNG and JPEG)
-  - Compiled with the latest Clang 12 toolchain from Android 12
-  - Updated UI fonts
-  - Updated WebView to Chromium 89 (LineageOS)
-  - Preparation for Pixel 4 and 4 XL support
-  - Pixel 2: Fixed updating without wiping data
-- [Proton Kernel](https://patreon.kdrag0n.dev/exclusive/ProtonKernel-pixel5-test250.img) for Pixel 4a 5G and 5
-  - March and April updates
-  - Performance & battery improvements
-  - Optimizations from Sultan
-  - System call filters compiled to machine code for 66% faster filtering
-  - Reduced CPU usage when using cellular data (for testing with 5G mmWave networks)
+- [ProtonAOSP ROM 11.4.1](https://patreon.kdrag0n.dev/protonaosp-install/) for Pixel 4 and 4 XL
+  - Added adaptive brightness toggle in quick settings
+  - Added support for Pixel 4 and 4 XL
+  - Low-level blur optimizations for GPU efficiency
+  - Improved blur quality with state-of-the-art triangular RGB blue noise dithering and gamma correction
+  - Pixel 4: Customizable Active Edge support
+  - Pixel 4: Fixed unexpected disconnects from weak 5 GHz Wi-Fi networks (stock bug)
+  - Pixel 4: Night Light color temperature calibration from stock
+  - Pixel 4: Temperature and USB port overheating warnings from stock
+  - Pixel 4: Reduced background memory usage
+  - Pixel 4: Optimized native code for Cortex-A76 CPU
 
 ## Potential future benefits
 
 - **Support for heavy OEM skins (One UI, MIUI) in [Universal SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix)**
 - ProtonAOSP ROM for Pixel 4 and 4 XL
-  - New device support
-  - Reverse-engineered, customizable implementation of Soli Motion Sense gestures
-  - All existing ProtonAOSP features
+  - Pixel 4: Customizable implementation of Soli Motion Sense gestures
+  - Pixel 4: Smoother lock screen
+  - Pixel 4: Easier face unlock enrollment
+  - Pixel 4: More detailed face unlock errors
+  - Pixel 4: Disabled debugging for UI rendering
 - Other expedited updates for ProtonAOSP
