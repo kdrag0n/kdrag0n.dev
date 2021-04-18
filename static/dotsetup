@@ -1,0 +1,32 @@
+cd $HOME
+
+echo 'Cloning dotfiles'
+git clone --bare --recursive git@github.com:kdrag0n/dotfiles $HOME/.dot
+function config {
+    git --git-dir=$HOME/.dot/ --work-tree=$HOME $@
+}
+
+touch .profile
+mkdir -p .dot-backup
+
+echo 'Checking out dotfiles'
+config checkout
+if [ $? = 0 ]; then
+  echo "Checked out dotfiles.";
+  else
+    echo "Backing up pre-existing dotfiles.";
+    config checkout 2>&1 | egrep "\s+\." | awk {'print $1'} | xargs -I{} sh -c 'mkdir -p $(dirname .dot-backup/{}) && mv {} .dot-backup/{}'
+fi;
+
+echo 'Final check out'
+config checkout
+
+echo 'Set options'
+config config status.showUntrackedFiles no
+
+echo 'Ensure submodules are cloned'
+config submodule init
+config submodule sync
+config submodule update
+
+echo 'Done'
