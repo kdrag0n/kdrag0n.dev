@@ -1,4 +1,5 @@
 {
+    "trailingSlash": false,
     "redirects": [
         { "source": "/g/:repo*", "destination": "https://github.com/kdrag0n/:repo*", "permanent": false },
         { "source": "/gc/:repo/:commit*", "destination": "https://github.com/kdrag0n/:repo/commit/:commit*", "permanent": false },
