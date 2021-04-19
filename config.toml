@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://kdrag0n.dev/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "kdrag0n"
 theme = "hello-friend-ng"
 
 paginate = 10
