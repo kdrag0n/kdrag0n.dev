@@ -15,5 +15,10 @@
         { "source": "/gcp/p5/:commit*", "destination": "https://github.com/kdrag0n/proton_kernel_redbull/commit/:commit*", "permanent": false },
         { "source": "/gcp/pvc/:commit*", "destination": "https://github.com/kdrag0n/mainline_kernel_easel/commit/:commit*", "permanent": false },
         { "source": "/gcp/p2p/:commit*", "destination": "https://github.com/kdrag0n/proton_kernel_wahoo-priv/commit/:commit*", "permanent": false }
-    ]
+    ],
+    "build": {
+        "env": {
+            "HUGO_VERSION": "0.82.0"
+        }
+    }
 }
