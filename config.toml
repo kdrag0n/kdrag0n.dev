@@ -6,6 +6,9 @@ theme = "hello-friend-ng"
 paginate = 10
 enableRobotsTXT = true
 
+[minify]
+  minifyOutput = true
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
