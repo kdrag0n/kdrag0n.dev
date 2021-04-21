@@ -4,8 +4,8 @@
         { "source": "/g/:repo*", "destination": "https://github.com/kdrag0n/:repo*", "permanent": false },
         { "source": "/gc/:repo/:commit*", "destination": "https://github.com/kdrag0n/:repo/commit/:commit*", "permanent": false },
 
-        { "source": "/gpa/:repo*", "destination": "https://github.com/ProtonAOSP/:repo*", "permanent": false },
-        { "source": "/gcpa/:repo/:commit*", "destination": "https://github.com/ProtonAOSP/:repo/commit/:commit*", "permanent": false },
+        { "source": "/gpa/:repo*", "destination": "https://github.com/ProtonAOSP/android_:repo*", "permanent": false },
+        { "source": "/gcpa/:repo/:commit*", "destination": "https://github.com/ProtonAOSP/android_:repo/commit/:commit*", "permanent": false },
 
         { "source": "/gcp/p3/:commit*", "destination": "https://github.com/kdrag0n/proton_bluecross/commit/:commit*", "permanent": false },
         { "source": "/gcp/zf6/:commit*", "destination": "https://github.com/kdrag0n/proton_zf6/commit/:commit*", "permanent": false },
