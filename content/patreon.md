@@ -17,6 +17,16 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
+- [Android 12 Extensions • 3.0.0](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v3.0.0.zip)
+  - [New quick settings design](https://twitter.com/kdrag0n/status/1385048665295790081)
+  - [Charging ripple animation](https://twitter.com/kdrag0n/status/1385058302199885826)
+  - [Quick settings tiles for upcoming alarms and Google Pay](https://twitter.com/kdrag0n/status/1385029676012216320)
+  - [FPS counter in game dashboard](https://twitter.com/kdrag0n/status/1385029667334230021)
+  - [New patterned ripple design](https://twitter.com/kdrag0n/status/1385004640689811457)
+  - [Better Monet themes in dark mode](https://twitter.com/kdrag0n/status/1385003175501963266)
+  - Removed obsolete features
+  - Removed support for DP2 and older
+  - Fixed false-positive "module not enabled" errors
 - [ProtonAOSP ROM 11.4.1](https://patreon.kdrag0n.dev/protonaosp-install/) for Pixel 4 and 4 XL
   - Added adaptive brightness toggle in quick settings
   - Added support for Pixel 4 and 4 XL
