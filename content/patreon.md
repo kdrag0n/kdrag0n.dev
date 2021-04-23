@@ -18,6 +18,7 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 ## Early access
 
 - [Android 12 Extensions • 3.0.0](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v3.0.0.zip)
+  - Added support for DP3
   - [New quick settings design](https://twitter.com/kdrag0n/status/1385048665295790081)
   - [Charging ripple animation](https://twitter.com/kdrag0n/status/1385058302199885826)
   - [Quick settings tiles for upcoming alarms and Google Pay](https://twitter.com/kdrag0n/status/1385029676012216320)
