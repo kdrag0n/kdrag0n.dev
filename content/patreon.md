@@ -19,7 +19,7 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 **By accessing any content linked below, you agree to the [End-User License Agreement]({{< ref "patreon-eula" >}}).**
 
-- [Android 12 Extensions • 3.0.0](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v3.0.0.zip)
+- [Android 12 Extensions • 3.1.0](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v3.1.0.zip)
   - Added support for DP3
   - [New quick settings design](https://twitter.com/kdrag0n/status/1385048665295790081)
   - [Charging ripple animation](https://twitter.com/kdrag0n/status/1385058302199885826)
@@ -29,7 +29,14 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
   - [Better Monet themes in dark mode](https://twitter.com/kdrag0n/status/1385003175501963266)
   - Removed obsolete features
   - Removed support for DP2 and older
+  - Added support for disabling Monet themes instantly
+  - Streamlined settings menus
+  - Added experimental haptic touch mod
+  - Revamped internal architecture to improve reliability
+  - Fixed incorrect notification shade layout on some devices
   - Fixed false-positive "module not enabled" errors
+  - Fixed global toggle for all features
+  - Fixed bugs and stability issues
 - [ProtonAOSP ROM 11.4.1](https://patreon.kdrag0n.dev/protonaosp-install/) for Pixel 4 and 4 XL
   - Added adaptive brightness toggle in quick settings
   - Added support for Pixel 4 and 4 XL
