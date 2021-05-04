@@ -18,7 +18,7 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
-**By accessing any content linked below, you agree to the [End-User License Agreement]({{< ref "patreon/eula" >}}).**
+**By accessing any content linked below, you agree to the [End-User License Agreement]({{< relref "patreon/eula" >}}).**
 
 - [ProtonAOSP ROM 11.4.1](https://patreon.kdrag0n.dev/protonaosp-install/) for Pixel 4 and 4 XL
   - Added adaptive brightness toggle in quick settings
@@ -45,4 +45,4 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Past benefits
 
-Thinking of pledging? Check the [list of past benefits]({{< ref "patreon/history" >}}) for more information.
+Thinking of pledging? Check the [list of past benefits]({{< relref "patreon/history" >}}) for more information.
