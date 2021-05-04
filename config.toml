@@ -64,7 +64,7 @@ enableRobotsTXT = true
     readOtherPosts = "Read other posts"
 
     # Ideally this would be removed entirely, but the theme doesn't support that
-    footerLeft = "Made with &#10084;"
+    footerLeft = '<a href="https://stats.uptimerobot.com/QLkLLS6KYE">Status</a>'
     # For license compliance
     footerRight = "Theme by Djordje Atlialp"
 
