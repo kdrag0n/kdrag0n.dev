@@ -76,10 +76,10 @@ enableRobotsTXT = true
       logoCursorDisabled = true
 
 [menu]
-  #[[menu.main]]
-  #  identifier = "downloads"
-  #  name       = "Downloads"
-  #  url        = "/files"
+  [[menu.main]]
+    identifier = "patreon"
+    name       = "Patreon"
+    url        = "/patreon"
 
   #[[menu.main]]
   #  identifier = "donate"
