@@ -58,7 +58,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "kdrag0n"
+    title = "Danny Lin"
     keywords = ""
     copyright = 'CC BY-NC 4.0'
     readOtherPosts = "Read other posts"
