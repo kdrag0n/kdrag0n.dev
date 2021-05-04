@@ -59,3 +59,7 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
   - Pixel 4: More detailed face unlock errors
   - Pixel 4: Disabled debugging for UI rendering
 - Other expedited updates for ProtonAOSP
+
+## Past benefits
+
+Thinking of pledging? Check the [list of past benefits]({{< ref "patreon/history" >}}) for more information.
