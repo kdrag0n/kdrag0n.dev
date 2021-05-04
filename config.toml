@@ -46,7 +46,7 @@ enableRobotsTXT = true
 
   [[params.social]]
     name = "email"
-    url  = "mailto:danny@kdrag0n.dev"
+    url  = "mailto:hi+websocial@kdrag0n.dev"
 
   [[params.social]]
     name = "github"
@@ -81,12 +81,12 @@ enableRobotsTXT = true
     name       = "Donate"
     url        = "/donate"
 
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
   #[[menu.main]]
   #  identifier = "blog"
   #  name       = "Blog"
   #  url        = "/posts"
-
-  #[[menu.main]]
-  #  identifier = "about"
-  #  name       = "About"
-  #  url        = "/about"
