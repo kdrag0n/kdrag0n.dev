@@ -77,11 +77,6 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    identifier = "patreon"
-    name       = "Patreon"
-    url        = "/patreon"
-
-  [[menu.main]]
     identifier = "donate"
     name       = "Donate"
     url        = "/donate"
