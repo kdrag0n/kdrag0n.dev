@@ -82,12 +82,6 @@ enableRobotsTXT = true
     url        = "/about"
     weight     = -100
 
-  [[menu.main]]
-    identifier = "donate"
-    name       = "Donate"
-    url        = "/donate"
-    weight     = -110
-
   #[[menu.main]]
   #  identifier = "blog"
   #  name       = "Blog"

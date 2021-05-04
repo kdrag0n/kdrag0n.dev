@@ -13,3 +13,5 @@ Find me on other platforms:
 {{< social-icons >}}
 
 You can reach me via [email](mailto:hi+webabout@kdrag0n.dev) or [Telegram](https://t.me/kdrag0n).
+
+Like my work? Please consider [donating]({{< ref "donate" >}}) so I can keep doing it!
