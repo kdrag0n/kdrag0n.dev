@@ -5,6 +5,7 @@ theme = "hello-friend-ng"
 
 paginate = 10
 enableRobotsTXT = true
+disableHugoGeneratorInject = true
 
 [minify]
   minifyOutput = true
