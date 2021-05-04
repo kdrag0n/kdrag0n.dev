@@ -2,6 +2,7 @@
 title: "Patreon benefits"
 date: 2021-04-02T11:23:05-07:00
 draft: false
+type: index_page
 ---
 
 Click the links below to download early access files as a reward for supporting me on Patreon. You’ll be prompted to log into your Patreon account to access the benefits.
