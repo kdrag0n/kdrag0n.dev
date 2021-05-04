@@ -81,10 +81,10 @@ enableRobotsTXT = true
     name       = "Patreon"
     url        = "/patreon"
 
-  #[[menu.main]]
-  #  identifier = "donate"
-  #  name       = "Donate"
-  #  url        = "/donate"
+  [[menu.main]]
+    identifier = "donate"
+    name       = "Donate"
+    url        = "/donate"
 
   #[[menu.main]]
   #  identifier = "blog"
