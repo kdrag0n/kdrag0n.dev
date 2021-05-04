@@ -17,7 +17,7 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
-**By accessing any content linked below, you agree to the [End-User License Agreement]({{< ref "patreon-eula" >}}).**
+**By accessing any content linked below, you agree to the [End-User License Agreement]({{< ref "patreon/eula" >}}).**
 
 - [Android 12 Extensions • 3.1.0](https://patreon.kdrag0n.dev/exclusive/android12-extensions-v3.1.0.zip)
   - Added support for DP3
