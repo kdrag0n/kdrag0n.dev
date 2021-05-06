@@ -81,6 +81,12 @@ disableHugoGeneratorInject = true
     identifier = "about"
     name       = "About"
     url        = "/about"
+    weight     = 1000
+
+  [[menu.main]]
+    identifier = "releases"
+    name       = "Releases"
+    url        = "/patreon"
     weight     = -100
 
   #[[menu.main]]
