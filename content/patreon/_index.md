@@ -2,7 +2,6 @@
 title: "Patreon benefits"
 date: 2021-04-02T11:23:05-07:00
 draft: false
-type: index_page
 ---
 
 Click the links below to download early access files as a reward for supporting me on Patreon. You’ll be prompted to log into your Patreon account to access the benefits.
@@ -18,52 +17,4 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
-**By accessing any content linked below, you agree to the [End-User License Agreement]({{< relref "patreon/eula" >}}).**
-
-- [ProtonAOSP ROM 11.5.0 for Pixel 2/XL, 4/XL, 4a 5G, and 5](https://patreon.kdrag0n.dev/protonaosp-install/)
-  - May security patch
-  - Added adaptive brightness toggle in quick settings (with UI tweaks)
-  - Added support for Pixel 4 and 4 XL
-  - Improved blur quality with state-of-the-art triangular RGB blue noise dithering and gamma correction
-  - Changed UI color scheme to Primer Design System (by popular patron vote)
-  - Better default ringtone, alarm, and notification sounds
-  - New photo wallpapers from Unsplash
-  - New space wallpapers from Infinitum
-  - Improved default Strange Landscape wallpaper (Infinitum)
-  - Low-level blur optimizations for GPU efficiency
-  - New, uniform blur strength across all devices
-  - Updated WebView to Chromium 90 (LineageOS)
-  - Fixed network permission enforcement in secondary users (GrapheneOS)
-  - Pixel 2: Fixed SafetyNet attestation failures
-  - Pixel 4: Customizable Active Edge support
-  - Pixel 4: Unlocked always-on display setting (LineageOS)
-  - Pixel 4: Fixed unexpected disconnects from weak 5 GHz Wi-Fi networks (stock bug)
-  - Pixel 4: Night Light color temperature calibration from stock
-  - Pixel 4: Temperature and USB port overheating warnings from stock
-  - Pixel 4: Reduced background memory usage
-  - Pixel 4: Optimized native code for Cortex-A76 CPU
-  - Pixel 4: Enabled background app suspension to save power and improve performance
-  - Pixel 4: Smoother lock screen
-  - Pixel 4: More detailed face unlock errors
-  - Pixel 4: Disabled debugging for UI rendering
-- [Proton Kernel 1.4 for Pixel 4a 5G and 5](https://patreon.kdrag0n.dev/exclusive/ProtonKernel-pixel5-test267.img)
-  - March and April updates
-  - Performance & battery improvements
-  - Optimizations from Sultan
-  - System call filters compiled to machine code for 66% faster filtering
-  - Reduced CPU usage when using cellular data (for testing with 5G mmWave networks)
-
-## Potential future benefits
-
-- **Support for heavy OEM skins (One UI, MIUI) in [Universal SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix)**
-- ProtonAOSP ROM for Pixel 4 and 4 XL
-  - Pixel 4: Customizable implementation of Soli Motion Sense gestures
-  - Pixel 4: Smoother lock screen
-  - Pixel 4: Easier face unlock enrollment
-  - Pixel 4: More detailed face unlock errors
-  - Pixel 4: Disabled debugging for UI rendering
-- Other expedited updates for ProtonAOSP
-
-## Past benefits
-
-Thinking of pledging? Check the [list of past benefits]({{< relref "patreon/history" >}}) for more information.
+**By accessing any content linked below, you agree to the [End-User License Agreement]({{< relref "patreon-eula" >}}).**
