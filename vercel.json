@@ -16,7 +16,10 @@
         { "source": "/gcp/pvc/:commit*", "destination": "https://github.com/kdrag0n/mainline_kernel_easel/commit/:commit*", "permanent": false },
         { "source": "/gcp/p2p/:commit*", "destination": "https://github.com/kdrag0n/proton_kernel_wahoo-priv/commit/:commit*", "permanent": false },
 
-        { "source": "/files/redirector/ProtonKernel-zenfone6-latest-stable.zip", "destination": "https://github.com/kdrag0n/proton_zf6/releases/download/v2.0/ProtonKernel-zenfone6-v2.0.zip", "permanent": false }
+        { "source": "/files/redirector/ProtonKernel-zenfone6-latest-stable.zip", "destination": "https://github.com/kdrag0n/proton_zf6/releases/download/v2.0/ProtonKernel-zenfone6-v2.0.zip", "permanent": false },
+
+        { "source": "/tw", "destination": "/?utm_medium=social&utm_source=twitter", "permanent": false },
+        { "source": "/gh", "destination": "/?utm_medium=social&utm_source=github", "permanent": false }
     ],
     "build": {
         "env": {
