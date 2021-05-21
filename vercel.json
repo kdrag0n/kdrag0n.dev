@@ -19,7 +19,8 @@
         { "source": "/files/redirector/ProtonKernel-zenfone6-latest-stable.zip", "destination": "https://github.com/kdrag0n/proton_zf6/releases/download/v2.0/ProtonKernel-zenfone6-v2.0.zip", "permanent": false },
 
         { "source": "/tw", "destination": "/?utm_medium=social&utm_source=twitter", "permanent": false },
-        { "source": "/gh", "destination": "/?utm_medium=social&utm_source=github", "permanent": false }
+        { "source": "/gh", "destination": "/?utm_medium=social&utm_source=github", "permanent": false },
+        { "source": "/tg", "destination": "/?utm_medium=social&utm_source=telegram", "permanent": false }
     ],
     "headers": [
         {
