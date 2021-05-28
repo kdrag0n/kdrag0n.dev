@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /exclusive-purchase-success
+Sitemap: https://kdrag0n.dev/sitemap.xml
