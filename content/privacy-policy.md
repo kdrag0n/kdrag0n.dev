@@ -6,9 +6,9 @@ draft: false
 
 This document details how we use your personal information on this website and related properties. Please read it carefully before using our services.
 
-## Website
+## Main website
 
-This website at [kdrag0n.dev](https://kdrag0n.dev/) is fully static and does not collect any personal information directly from you. The web hosting provider, [Vercel](https://vercel.com/legal/privacy-policy), will receive your IP address so that it can serve content.
+This website ([kdrag0n.dev](https://kdrag0n.dev/)) is fully static and does not collect any personal information directly from you. Our web hosting provider, [Vercel](https://vercel.com/legal/privacy-policy), will receive your IP address so that it can serve content.
 
 Additionally, we use [Simple Analytics](https://simpleanalytics.com/privacy-policy) to collect anonymous aggregate statistics for the website. This process is fully anonymous and does not track individual users or collect personal information. [GoatCounter](https://www.goatcounter.com/privacy) is currently used for the same purpose, but it is likely to be removed in the near future.
 
