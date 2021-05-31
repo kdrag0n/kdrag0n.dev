@@ -44,13 +44,16 @@ Additionally, the path and IP address of each request is saved in the server log
 
 ### Patreon
 
-If you link your Patreon account with the exclusive content server, the following information will be saved:
+When you create, update, or cancel a pledge on Patreon, the following information will be saved:
 
 - Patreon user ID
 - Patreon account name
 - Email address
-- Patreon access token
 - When your Patreon account was created
+
+Additionally, if you proceed to link your Patreon account with the exclusive content server in order to download content, the following information will be saved:
+
+- Patreon access token
 - When you linked your account
 - IP address at the time of login
 
@@ -62,6 +65,14 @@ If you purchase content, our payment processor [Stripe](https://stripe.com/priva
 
 If you visit a page that includes payments, Stripe may store cookies on your device for fraud detection. No unnecessary cookies are used.
 
+## Updates
+
+We reserve the right to update this privacy policy at any time without notice. If significant changes are made, we will make an attempt to inform active users of affected services based on stored email addresses, but notification is not guaranteed.
+
 ## Contact
 
-Please send any questions or comments to privacy@kdrag0n.dev. We will gladly process CCPA and GDPR data deletion requests.
+If you are an European resident, you may exercise your rights under the GDPR via email.
+
+If you are a California resident, you may exercise your rights under the CCPA via email. Please note that we do not sell any personal information.
+
+Please send any questions, comments, or requests to privacy@kdrag0n.dev. We will gladly process CCPA and GDPR data deletion requests.
