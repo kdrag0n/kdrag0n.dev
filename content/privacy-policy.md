@@ -50,13 +50,13 @@ If you link your Patreon account with the exclusive content server, the followin
 - When you linked your account
 - IP address at the time of login
 
-A session cookie will be stored on your device in order to save your login state.
+A session cookie will be stored on your device in order to save your login state. No unnecessary cookies are used.
 
 ### Payments
 
 If you purchase content, our payment processor [Stripe](https://stripe.com/privacy) will collect and use your billing information to complete the purchase. The only information we receive is your email address, which allows us to fulfill your purchase. No payment or billing information is transmitted to our servers.
 
-If you visit a page that includes payments, Stripe may store cookies on your device for fraud detection.
+If you visit a page that includes payments, Stripe may store cookies on your device for fraud detection. No unnecessary cookies are used.
 
 ## Contact
 
