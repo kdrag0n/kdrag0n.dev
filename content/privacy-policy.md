@@ -16,7 +16,7 @@ No cookies are used on this website.
 
 ## ProtonAOSP website
 
-The ProtonAOSP website at [protonaosp.kdrag0n.dev](https://protonaosp.kdrag0n.dev) is also a static website hosted on Vercel, with Simple Analytics and GoatCounter for statistics.
+The ProtonAOSP website at [protonaosp.kdrag0n.dev](https://protonaosp.kdrag0n.dev) is also a static website hosted on Vercel, with Simple Analytics and GoatCounter for anonymous aggregate statistics.
 
 If you download a build of ProtonAOSP through the web installer, the download will be served by [Cloudflare](https://www.cloudflare.com/privacypolicy/), which will receive your IP address so that it can serve the download.
 
