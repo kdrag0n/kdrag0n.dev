@@ -18,7 +18,9 @@ We reserve the right to refuse service to anyone for any reason.
 
 ## Exclusive content
 
-If you download exclusive content from [patreon.kdrag0n.dev](https://patreon.kdrag0n.dev/), you are granted a single license to the software for personal use only. This license is non-transferable and non-exclusive; you may not share your license of the exclusive content with other users under any circumstances. You may, however, purchase multiple licenses that can be shared with others on a per-individual basis. In such cases, this agreement applies independently to each individual.
+If you download exclusive content from [patreon.kdrag0n.dev](https://patreon.kdrag0n.dev/), you are granted a single license to the software for personal use only. **This license is non-transferable and non-exclusive; you may not share your license of the exclusive content with other users under any circumstances.** You may, however, purchase multiple licenses that can be shared with others on a per-individual basis. In such cases, this agreement applies independently to each individual.
+
+If you have multiple personal devices, you may use the software on all of them, as long as they are all **personal devices** — that is, you must physically own the devices and use them in a personal capacity. Sharing the content for other individuals to use on their own devices does not qualify and is considered a violation of these terms.
 
 You may not redistribute, resell, sublicense, modify, decompile, reverse engineer, or otherwise alter exclusive software. This agreement will terminate immediately if we become aware of such actions from you.
 
