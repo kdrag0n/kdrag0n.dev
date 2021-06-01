@@ -17,4 +17,4 @@ Looking for other benefits? [Find them on Patreon.](https://patreon.com/kdrag0n)
 
 ## Early access
 
-**By accessing any content linked below, you agree to the [End-User License Agreement]({{< relref "patreon-eula" >}}). Sharing downloads is strictly prohibited and will result in a permanent ban.**
+**By accessing any content linked below, you agree to the [Terms of Service]({{< relref "terms-of-service" >}}). Sharing downloads is strictly prohibited and will result in a permanent ban.**

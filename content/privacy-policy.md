@@ -36,7 +36,7 @@ If you download and install exclusive software from the server, the following in
 - When the software was last used
 - When you downloaded the file
 
-This information is used to enforce the [End-User License Agreement]({{< relref "patreon-eula" >}}), diagnose issues, and calculate aggregate statistics.
+This information is used to enforce the [Terms of Service]({{< relref "terms-of-service" >}}), diagnose issues, and calculate aggregate statistics.
 
 When you pledge on Patreon or make a purchase, we will send you a transactional email. Your email address will be sent to our email communications provider, [SendGrid](https://www.twilio.com/legal/privacy), in order for us to fulfill your pledge or purchase.
 

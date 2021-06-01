@@ -8,7 +8,7 @@ Thank you for supporting me and my work! I really appreciate it. People like you
 
 To access early access downloads, check your email for download links and a confirmation receipt.
 
-**By using the download links, you agree to the [End-User License Agreement]({{< relref "patreon-eula" >}}). Sharing downloads is strictly prohibited and will result in a permanent ban.**
+**By using the download links, you agree to the [Terms of Service]({{< relref "terms-of-service" >}}). Sharing downloads is strictly prohibited and will result in a permanent ban.**
 
 ## Support
 
