@@ -20,6 +20,8 @@ We reserve the right to refuse service to anyone for any reason.
 
 If you download exclusive content from [patreon.kdrag0n.dev](https://patreon.kdrag0n.dev/), you are granted a single license to the software for personal use only. **This license is non-transferable and non-exclusive; you may not share your license of the exclusive content with other users under any circumstances.** You may, however, purchase multiple licenses that can be shared with others on a per-individual basis. In such cases, this agreement applies independently to each individual.
 
+"Exclusive content" is defined as **any** file downloaded from [patreon.kdrag0n.dev](https://patreon.kdrag0n.dev/). As a result, this section applies to all such files regardless of the method through which you obtained the files from the server. This includes, but is not limited to, the following methods: Patreon pledge benefits, one-time Stripe purchases, free trials, and other official promotions where content is distributed free of charge for any reason.
+
 If you have multiple personal devices, you may use the software on all of them, as long as they are all **personal devices** — that is, you must physically own the devices and use them in a personal capacity. Sharing the content for other individuals to use on their own devices does not qualify and is considered a violation of these terms.
 
 You may not redistribute, resell, sublicense, modify, decompile, reverse engineer, or otherwise alter exclusive software. This agreement will terminate immediately if we become aware of such actions from you.
