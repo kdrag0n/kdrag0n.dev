@@ -4,7 +4,7 @@ date: 2021-05-31T16:29:11-07:00
 draft: false
 ---
 
-This document details how you may use this website, related properties, and content. Please read it carefully before using our services, along with the [Privacy Policy]({{< relref "privacy-policy" >}}). We may also refer to this agreement as the End-User License Agreement.
+This document details how you may use this website, related properties, and content. Please read it carefully before using our services, along with the [Privacy Policy]({{< relref "privacy-policy" >}}). If you do not fully understand and agree to both this document ("Terms of Service") and the Privacy Policy, you may not use any of our services. We may also refer to this document as the End-User License Agreement.
 
 The terms in this document apply to the following properties:
 

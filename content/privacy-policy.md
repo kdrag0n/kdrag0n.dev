@@ -4,7 +4,7 @@ date: 2021-05-30T23:37:13-07:00
 draft: false
 ---
 
-This document details how we use your personal information on this website and related properties. Please read it carefully before using our services, along with the [Terms of Service]({{< relref "terms-of-service" >}}).
+This document details how we use your personal information on this website and related properties. Please read it carefully before using our services, along with the [Terms of Service]({{< relref "terms-of-service" >}}). If you do not fully understand and agree to both this document ("Privacy Policy") and the Terms of Service, you may not use any of our services.
 
 ## Main website
 
