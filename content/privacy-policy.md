@@ -26,15 +26,18 @@ No cookies are used on this website.
 
 The exclusive content server at [patreon.kdrag0n.dev](https://patreon.kdrag0n.dev/) is a dynamic application server hosted on [Vultr](https://www.vultr.com/legal/privacy/) and proxied by Cloudflare.
 
-If you download and install exclusive software from the server, the following information will be collected and saved every time you download a file, and a subset of the information will be collected and saved periodically as you use the installed software:
+If you download and install exclusive software from the server, the following information will be collected and saved when you download a file:, and a subset of the information will be collected and saved periodically as you use the installed software:
 
 - The ID of the Patreon user, grant link, or purchase that you accessed it with
 - Name and checksum of the file you downloaded
 - The IP address you downloaded the software from
+- When you downloaded the file
+
+Additionally, the following information will be collected and saved periodically as you use the installed software, in association with the information saved on download:
+
 - The IP addresses you use the software from
 - Per-install ID derived from the Android install ID
 - When the software was last used
-- When you downloaded the file
 
 This information is used to enforce the [Terms of Service]({{< relref "terms-of-service" >}}), diagnose issues, and calculate aggregate statistics.
 
