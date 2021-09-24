@@ -56,6 +56,14 @@ disableHugoGeneratorInject = true
     name = "telegram"
     url  = "https://t.me/kdrag0n"
 
+  [[params.social]]
+    name = "matrix"
+    url  = "https://matrix.to/#/@kdrag0n:matrix.org"
+
+  [[params.social]]
+    name = "patreon"
+    url  = "https://patreon.com/kdrag0n"
+
 [languages]
   [languages.en]
     title = "Danny Lin"
