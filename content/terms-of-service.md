@@ -4,24 +4,24 @@ date: 2021-05-31T16:29:11-07:00
 draft: false
 ---
 
-This document details how you may use this website, related properties/content, and our apps. Please read it carefully before using our services, along with the [Privacy Policy]({{< relref "privacy-policy" >}}). If you do not fully understand and agree to both this document ("Terms of Service") and the Privacy Policy, you may not use any of our services. We may also refer to this document as the End-User License Agreement.
+This document details how you may use this website, related properties/content, and our applications. Please read it carefully before using our services or applications, along with the [Privacy Policy]({{< relref "privacy-policy" >}}). If you do not fully understand and agree to both this document ("Terms of Service") and the Privacy Policy, you may not use any of our services or applications. We may also refer to this document as the End-User License Agreement.
 
 The terms in this document apply to the following properties:
 
 - [kdrag0n.dev](https://kdrag0n.dev/)
 - [protonaosp.kdrag0n.dev](https://protonaosp.kdrag0n.dev/)
 - [patreon.kdrag0n.dev](https://patreon.kdrag0n.dev/)
-- Repainter app on the Google Play Store
+- Repainter application on the Google Play Store
 
-All content on this website and related properties is provided on an as-is basis without warranty of any kind. By using our services, you agree that we are not liable for any potential harm, damages, or other negative effects resulting from your use of our services. Use our services at your own risk.
+All content on this website and related properties is provided on an as-is basis without warranty of any kind. By using our services or applications, you agree that we are not liable for any potential harm, damages, or other negative effects resulting from your use of our services or applications. Use our services or applications at your own risk.
 
 We reserve the right to refuse service to anyone for any reason.
 
 ## Google Play Store
 
-If you download our apps ("Play Store apps") from the Google Play Store, you are granted a single license to the software for personal use only. **This license is non-transferable and non-exclusive; you may not share your license for any of our apps with other users under any circumstances.** You may, however, purchase multiple licenses that can be shared with others on a per-individual basis. In such cases, this agreement applies independently to each individual.
+If you download our applications ("Play Store applications") from the Google Play Store, you are granted a single license to the software for personal use only. **This license is non-transferable and non-exclusive; you may not share your license for any of our applications with other users under any circumstances.** You may, however, purchase multiple licenses that can be shared with others on a per-individual basis. In such cases, this agreement applies independently to each individual.
 
-"Play Store apps" is defined as **any** app by "kdrag0n" downloaded from the Google Play Store. This applies regardless of how you obtained the app and whether you paid a monetary fee for the app. For example, if you were granted a license to the app free of charge through an official promotion, all of these terms still apply.
+"Play Store applications" is defined as **any** application by "kdrag0n" downloaded from the Google Play Store. This applies regardless of how you obtained the application and whether you paid a monetary fee for the application. For example, if you were granted a license to the application free of charge through an official promotion, all of these terms still apply.
 
 If you have multiple personal devices, you may use the software on all of them, as long as they are all **personal devices** — that is, you must physically own the devices and use them in a personal capacity. Sharing the content for other individuals to use on their own devices does not qualify and is considered a violation of these terms.
 

@@ -4,7 +4,7 @@ date: 2021-05-30T23:37:13-07:00
 draft: false
 ---
 
-This document details how we use your personal information on this website and related properties, services, and applications. Please read it carefully before using our services, along with the [Terms of Service]({{< relref "terms-of-service" >}}). If you do not fully understand and agree to both this document ("Privacy Policy") and the Terms of Service, you may not use any of our services.
+This document details how we use your personal information on this website and related properties, services, and applications. Please read it carefully before using our services or applications, along with the [Terms of Service]({{< relref "terms-of-service" >}}). If you do not fully understand and agree to both this document ("Privacy Policy") and the Terms of Service, you may not use any of our services or applications.
 
 We do not sell any personal information, and only collect information as necessary for diagnostic, anti-abuse, functional, debugging, and analytical purposes. Please read the entire agreement carefully for details applicable to each specific property, application, and/or service we provide.
 
@@ -26,16 +26,16 @@ No cookies are used on this website.
 
 ## Google Play Store
 
-If you download and install any of our apps from the Google Play Store, the following information will be collected and saved periodically as you use the installed software. The information is stored on a server hosted on [Vultr](https://www.vultr.com/legal/privacy/) and proxied by Cloudflare.
+If you download and install any of our applications from the Google Play Store, the following information will be collected and saved periodically as you use the installed software. The information is stored on a server hosted on [Vultr](https://www.vultr.com/legal/privacy/) and proxied by Cloudflare.
 
-- Package name of the app
-- Version code of the app
+- Package name of the application
+- Version code of the application
 - Licensing status reported by the Google Play Store
 - User identifier reported by the Google Play Store
 - Current time and date
 - Irreversible hash of a unique device identifier
 - IP address
-- Whether the user is licensed to use the app
+- Whether the user is licensed to use the application
 
 This information is used solely to enforce the [Terms of Service]({{< relref "terms-of-service" >}}), for anti-abuse and debugging purposes.
 
@@ -47,20 +47,20 @@ The following information will be collected and shared with [Sentry](https://sen
 
 - Error and crash logs
 - App diagnostic logs
-- User identifier generated for each app installation (clear app data to reset this identifier)
+- User identifier generated for each application installation (clear application data to reset this identifier)
 
 This occurs automatically in the background.
 
 ### Debug reports
 
-In apps that include a "debug report" feature, the following information will be collected and shared with us when you explicitly choose to share a debug report in the app:
+In applications that include a "debug report" feature, the following information will be collected and shared with us when you explicitly choose to share a debug report in the application:
 
 - Error and crash logs
 - App diagnostic logs
 - Device, operating system, and other runtime environment information
-- Specific system settings relevant to the app (if available)
+- Specific system settings relevant to the application (if available)
 - System logs (if available)
-- Other relevant app and system information necessary for debugging purposes
+- Other relevant application and system information necessary for debugging purposes
 
 This information is never shared without consent; it will only be shared if you explicitly choose to share a debug report.
 
