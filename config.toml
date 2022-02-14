@@ -23,8 +23,8 @@ disableHugoGeneratorInject = true
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  homeSubtitle = "Android app, custom kernel, and chatbot developer"
-  description = "Personal website and blog of kdrag0n, an Android app, custom kernel, and chatbot developer."
+  homeSubtitle = "Android & web developer"
+  description = "Personal website and blog of kdrag0n, an Android and web developer."
   keywords = "kdrag0n, homepage, blog"
   images = [""]
 
