@@ -9,8 +9,9 @@ This document details how you may use this website, related properties/content, 
 The terms in this document apply to the following properties:
 
 - [kdrag0n.dev](https://kdrag0n.dev/)
-- [protonaosp.kdrag0n.dev](https://protonaosp.kdrag0n.dev/)
+- [protonaosp.org](https://protonaosp.org/)
 - [patreon.kdrag0n.dev](https://patreon.kdrag0n.dev/)
+- [repainter.app](https://repainter.app/)
 - Repainter application on the Google Play Store
 
 All content on this website and related properties is provided on an as-is basis without warranty of any kind. By using our services or applications, you agree that we are not liable for any potential harm, damages, or other negative effects resulting from your use of our services or applications. Use our services or applications at your own risk.
