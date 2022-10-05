@@ -1,8 +1,7 @@
 {{ $main := resources.Get "js/main.js" }}
 {{ $menu := resources.Get "js/menu.js" }}
 {{ $simpleAnalytics := resources.Get "js/simple-analytics.js" }}
-{{ $plausible := resources.Get "js/plausible.js" }}
-{{ $secureJS := slice $main $menu $simpleAnalytics $plausible | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
+{{ $secureJS := slice $main $menu $simpleAnalytics | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
 <script src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" data-skip-dnt="true" data-domain="kdrag0n.dev"></script>
 
 {{- if .Site.GoogleAnalytics }}
