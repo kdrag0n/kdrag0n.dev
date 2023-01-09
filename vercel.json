@@ -22,6 +22,9 @@
         { "source": "/gh", "destination": "/?utm_medium=social&utm_source=github", "permanent": false },
         { "source": "/tg", "destination": "/?utm_medium=social&utm_source=telegram", "permanent": false }
     ],
+    "rewrites": [
+        { "source": "/api/event", "destination": "https://plausible.io/api/event" }
+    ],
     "headers": [
         {
             "source": "/(.*).js",

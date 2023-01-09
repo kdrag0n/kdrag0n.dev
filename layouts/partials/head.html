@@ -69,4 +69,5 @@
 <link rel="preload" as="font" href="/fonts/Inter-Bold.woff2" type="font/woff2" crossorigin="anonymous">
 
 <!-- Plausible -->
-<script async defer data-domain="kdrag0n.dev" src="/js/plaus.js"></script>
+{{ $plausible := resources.Get "js/plaus.js" }}
+<script async defer data-domain="kdrag0n.dev" src="{{ $plausible.RelPermalink }}"></script>
